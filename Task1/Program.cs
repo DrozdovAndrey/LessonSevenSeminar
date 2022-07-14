@@ -63,7 +63,7 @@ namespace Seminar7
             for (int i = 0; i < array.GetLength(0) && i < array.GetLength(1); i++)
             {
                 
-                     sum+= array[i,i];
+                    sum+= array[i,i];
             }
                 
             return sum;
